@@ -1,4 +1,6 @@
 # 3a.CREATION FOR ECHO CLIENT AND ECHO SERVER USING TCP SOCKETS
+Name:R.Sabarinath
+Register No:212223100048
 # AIM
 To write a python program for creating Echo Client and Echo Server using TCP
 Sockets Links.
